@@ -55,7 +55,7 @@ The final model is capable of predicting whether or not it will rain tomorrow, p
 ---
 
 ## 🚀 How to Run the Code cloning it
-#### ⚠ Important: Before proceeding, please ensure that Git is installed on your system.
+#### ⚠ Important: Before proceeding, please ensure that Git is installed on your system
 - If you don’t have it, please install it first: https://git-scm.com/downloads  
 - If you already have it, just follow the steps below:
   
@@ -67,8 +67,8 @@ The final model is capable of predicting whether or not it will rain tomorrow, p
    # Example on Windows (PowerShell)
    cd C:\Users\YourName\Documents\Projects\
    
-2. **Run the following line to clone the file**
+2. **Run the following line to clone the file:**
    ```bash
    git clone https://github.com/caio99-git/IBM-Machine-Learning-with-Python.git
 
-3. **Open the chosen Notebook and upload the downloaded file from the selected folder**
+3. **Open the chosen Notebook and upload the downloaded file from the selected folder.**
