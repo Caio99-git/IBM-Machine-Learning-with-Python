@@ -58,5 +58,5 @@ The final model is capable of predicting whether or not it will rain tomorrow, p
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/IBM-Machine-Learning-with-Python.git
+   git clone https://github.com/caio99-git/IBM-Machine-Learning-with-Python.git
    cd IBM-Machine-Learning-with-Python
