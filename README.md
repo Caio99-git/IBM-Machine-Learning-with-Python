@@ -1,6 +1,6 @@
 # 🌧️ Rainfall Prediction Classifier
 
-Welcome to the **Rainfall Prediction Classifier**, a machine learning project built as part of a data science course. In this project, I apply the full data science pipeline to build a classifier that predicts whether it will rain tomorrow based on historical weather data.
+Welcome to the **Rainfall Prediction Classifier**, a machine learning project built as part of the IBM Machine Learning with Python course. This project demonstrates the full data science pipeline, where we build a classifier that predicts whether it will rain tomorrow based on historical weather data.
 
 ---
 
@@ -20,18 +20,18 @@ The dataset includes features such as:
 ## 🔍 Key Tasks
 
 ### 📊 Data Exploration & Cleaning
-- Performed exploratory data analysis (EDA)
-- Handled missing values
+- Performed exploratory data analysis (EDA) to understand patterns in the data
+- Handled missing values, outliers, and applied transformations where necessary
 - Engineered relevant features to improve model performance
 
 ### 🏗️ Model Building
-- Created a machine learning pipeline
-- Model selection and training
-- Applied hyperparameter tuning to optimize performance
+- Created a machine learning pipeline to streamline the model building process
+- Model selection and training on various algorithms
+- Applied hyperparameter tuning to find the best-performing model
 
 ### ✅ Evaluation
-- Assessed model performance using classification metrics
-- Visualized results to interpret the model's predictions
+- Assessed model performance using classification metrics such as accuracy, precision, recall, and F1-score
+- Visualized results with plots to interpret the model's predictions and performance
 
 ---
 
@@ -39,8 +39,8 @@ The dataset includes features such as:
 
 - **Libraries:** `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
 - **ML Framework:** `Scikit-learn`  
-- **Workflow:** Pipeline design for a clean and reproducible machine learning process  
-- **Metrics:** Accuracy, Precision, Recall, F1-score
+- **Workflow:** Clean and reproducible machine learning process using pipelines
+- **Metrics:** Accuracy, Precision, Recall, F1-score for evaluating classification performance
 
 ---
 
@@ -48,6 +48,15 @@ The dataset includes features such as:
 
 The final model is capable of predicting whether or not it will rain tomorrow, providing insights that can be useful for:
 
-- 🌾 Agriculture  
-- ✈️ Travel  
-- 🗓️ Daily planning
+- 🌾 Agriculture: Helping farmers plan better
+- ✈️ Travel: Informing travel plans based on weather predictions
+- 🗓️ Daily Planning: Assisting individuals in making decisions based on the weather forecast
+
+---
+
+## 🚀 How to Run the Code
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/IBM-Machine-Learning-with-Python.git
+   cd IBM-Machine-Learning-with-Python
