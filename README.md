@@ -17,6 +17,19 @@ The dataset includes features such as:
 
 ---
 
+## 📥 About The Dataset
+
+The original source of the data is the **Australian Government's Bureau of Meteorology**. The latest data can be accessed at:  
+[http://www.bom.gov.au/climate/dwo/](http://www.bom.gov.au/climate/dwo/)
+
+The dataset used in this project was downloaded from Kaggle:  
+[https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/)
+
+Column definitions and metadata were gathered from the Bureau of Meteorology here:  
+[http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml](http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml)
+
+---
+
 ## 🔍 Key Tasks
 
 ### 📊 Data Exploration & Cleaning
@@ -54,21 +67,22 @@ The final model is capable of predicting whether or not it will rain tomorrow, p
 
 ---
 
-## 🚀 How to Run the Code cloning it
-#### ⚠ Important: Before proceeding, please ensure that Git is installed on your system
+## 🚀 How to Run the Code by Cloning the Repository
+
+#### ⚠ Important: Before proceeding, please ensure that Git is installed on your system  
 - If you don’t have it, please install it first: https://git-scm.com/downloads  
 - If you already have it, just follow the steps below:
-  
-1. **Open your terminal and type or paste the path where you want to save the repository:**
+
+1. **Open your terminal and type or paste the path where you want to save the repository:**  
     ```bash
-   # Example on Linux/macOS
-   cd ~/Documents/Projects/
+    # Example on Linux/macOS
+    cd ~/Documents/Projects/
 
-   # Example on Windows (PowerShell)
-   cd C:\Users\YourName\Documents\Projects\
-   
-2. **Run the following line to clone the file:**
-   ```bash
-   git clone https://github.com/caio99-git/IBM-Machine-Learning-with-Python.git
-
-3. **Open the chosen Notebook and upload the downloaded file from the selected folder.**
+    # Example on Windows (PowerShell)
+    cd C:\Users\YourName\Documents\Projects\
+    ```
+2. **Run the following command to clone the repository:**  
+    ```bash
+    git clone https://github.com/caio99-git/IBM-Machine-Learning-with-Python.git
+    ```
+3. **Open the chosen Notebook and upload the downloaded files from the selected folder.**
