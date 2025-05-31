@@ -67,22 +67,7 @@ The final model is capable of predicting whether or not it will rain tomorrow, p
 
 ---
 
-## 🚀 How to Run the Code by Cloning the Repository
+## 🚀 How to Run
 
-#### ⚠ Important: Before proceeding, please ensure that Git is installed on your system  
-- If you don’t have it, please install it first: https://git-scm.com/downloads  
-- If you already have it, just follow the steps below:
-
-1. **Open your terminal and type or paste the path where you want to save the repository:**  
-    ```bash
-    # Example on Linux/macOS
-    cd ~/Documents/Projects/
-
-    # Example on Windows (PowerShell)
-    cd C:\Users\YourName\Documents\Projects\
-    ```
-2. **Run the following command to clone the repository:**  
-    ```bash
-    git clone https://github.com/caio99-git/IBM-Machine-Learning-with-Python.git
-    ```
-3. **Open the chosen Notebook and upload the downloaded files from the selected folder.**
+1. Clone or download this repository to your local machine.
+2. Open the Jupyter notebooks and run the code step-by-step for data cleaning, analysis, and visualization.
